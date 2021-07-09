@@ -1,0 +1,2 @@
+C:\Users\marce\Documents\DIO\Bootcamps\take-blip-fullstack-developer\15 - Projeto 2 - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\marce\Documents\DIO\Bootcamps\take-blip-fullstack-developer\15 - Projeto 2 - Criando um catálogo de jogos usando boas práticas de arquitetura com .NET\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
